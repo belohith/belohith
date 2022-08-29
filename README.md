@@ -1,5 +1,3 @@
-Thank you for visiting here first of all! ❤️🖖
-
 As a result of the work experiences I had, I am someone who's skilled at both creative side as well as technical side. Hence I see that as an asset.
 
 I've written and published a fictional book called 'Waiting in Bangalore' which you can buy on Amazon Kindle.
