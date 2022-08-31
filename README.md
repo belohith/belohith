@@ -21,3 +21,7 @@ www.oxappportal.com
 ![Lohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=belohith&theme=onedark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belohith&layout=compact&theme=onedark)
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=belohith&theme=onedark"/>
+
+
