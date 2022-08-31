@@ -20,4 +20,4 @@ www.oxappportal.com
 
 ![Lohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=belohith&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belohith&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belohith&layout=compact&theme=onedark)
