@@ -1,3 +1,4 @@
+<!--
 As a result of the work experiences I had, I am someone who's skilled at both creative side as well as technical side. Hence I see that as an asset.
 
 I've written and published a fictional book called 'Waiting in Bangalore' which you can buy on Amazon Kindle.
@@ -15,5 +16,6 @@ www.belohith.com
 Also, I'm working on a project which is a portal of apps for different platforms. Check it out! It is updated regularly.
 
 www.oxappportal.com
+-->
 
 ![GitHub Stats](https://github-readme-stats.vercel.ap... &theme=radical)
