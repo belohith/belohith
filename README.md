@@ -18,4 +18,6 @@ Also, I'm working on a project which is a portal of apps for different platforms
 www.oxappportal.com
 
 
-![Lohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=belohith&theme=onedark)]
+![Lohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=belohith&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belohith&layout=compact)]
