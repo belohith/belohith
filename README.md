@@ -1,4 +1,4 @@
-# LOHITH BOLLINENI
+# <p align="center"> ··· LOHITH BOLLINENI ··· </p>
 
 Currently pursuing my Masters in Computer Science, I'm looking for a job in the Software Development industry. I work on Full Stack with a preference in Front End Development.  
 
