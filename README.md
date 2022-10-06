@@ -4,7 +4,7 @@ Currently pursuing my Masters Degree in Computer Science, I'm looking for a job 
 
 Languages: 
   ```
-  Java · Python · C · C++ · C# · JavaScript · Typescript · Erlang · Elixir · Dart
+  Java · Python · C · C++ · C# · JavaScript · Typescript · Erlang · Elixir · Dart · GoLang
   ```
 Frameworks or Libraries: 
   ```
