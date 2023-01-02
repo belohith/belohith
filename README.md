@@ -1,6 +1,6 @@
 # <p align="center"> ··· LOHITH BOLLINENI ··· </p>
 
-Currently pursuing Masters Degree in Computer Science, I'm looking for a job in the Software Development industry. I work on Full Stack with a preference in Front End Development.  
+Currently pursuing my Masters Degree in Computer Science, I'm looking for a job in the Software Development industry. I work on Full Stack with a preference in Front End Development.  
 
 Languages: 
   ```
