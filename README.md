@@ -33,7 +33,7 @@ You can check my website to know more: https://www.belohith.com/
 
 Interests:
   ```
-  Design · Video Editing · Photography · Author · Typography · Augmented & Virtual Reality · Digital Illustration
+  Design · Video Editing · Photography · Author · Typography · Augmented & Virtual Reality · UI & UX · Digital Illustration
   ```
 
 
