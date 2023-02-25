@@ -31,7 +31,7 @@ Also like to work on/ good with:
 
 You can check my website to know more: https://www.belohith.com/
 
-Interests:
+Other Interests:
   ```
   Design · Video Editing · Photography · Author · Typography · Augmented & Virtual Reality · UI & UX · Digital Illustration
   ```
