@@ -36,7 +36,11 @@ Other Interests:
   Design · Video Editing · Photography · Author · Typography · Augmented & Virtual Reality · UI & UX · Digital Illustrations
   ```
 
+# Certifications:
 
+Google UX Professional Certification (Coursera) - view certificate
+
+IBM Fullstack Cloud Developer Professional Certification (Coursera) - view certificate
 
 ![Lohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=belohith&theme=onedark)
 ![Lohith's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=belohith&theme=onedark)
