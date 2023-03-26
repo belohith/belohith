@@ -48,7 +48,7 @@ Coursework Summary: Learned the design process (from empathazing and understandi
 
 IBM Fullstack Cloud Developer Professional Certificate (Coursera) - view certificate
 ```
-Tools/Skills Learned: Basic Cloud Computing, HTML5, CSS3, JavaScript, Git, ReactJS, NodeJS, Express, Python (backend), Django, Data Science, AI, SQL, Databases,  Docker, Kubernetes, Openshift, Microservices and Serverless
+Tools/Skills Learned: Basic Cloud Computing, HTML5, CSS3, JavaScript, Git, ReactJS, NodeJS, Express, Python, Django, Data Science, AI, SQL, Databases,  Docker, Kubernetes, Openshift, Microservices and Serverless
 
 Coursework Summary: Learned the complete life cycle in full stack development (from basic frontend skills to implementing the web app in a container)
 ```
