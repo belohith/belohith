@@ -38,9 +38,13 @@ Other Interests:
 
 # Certifications:
 
-Google UX Professional Certification (Coursera) - view certificate
+Google UX Design Professional Certificate (Coursera) - view certificate
+> Tools/Skills Learned: Figma · Adobe XD
+> Coursework Summary: Learned the design process (from empathazing and understanding users to testing the designs), understood UX research methods & implementation of user centric design.
 
 IBM Fullstack Cloud Developer Professional Certification (Coursera) - view certificate
+> Tools/Skills Learned: Basic Cloud Computing, HTML5, CSS3, JavaScript, Git, ReactJS, NodeJS, Express, Python (backend), Django, Data Science, AI, SQL, Databases,  Docker, Kubernetes, Openshift, Microservices and Serverless
+> Coursework Summary: Learned the complete life cycle in full stack development (from basic frontend skills to implementing the web app in a container)
 
 ![Lohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=belohith&theme=onedark)
 ![Lohith's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=belohith&theme=onedark)
