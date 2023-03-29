@@ -38,7 +38,7 @@ Other Interests:
 
 # Certifications:
 
-Google UX Design Professional Certificate (Coursera) - view certificate
+Google UX Design Professional Certificate (Coursera) - [view certificate](https://www.coursera.org/account/accomplishments/professional-cert/QLMAEPEF32W5)
 ```
 Tools/Skills Learned: Figma · Adobe XD
 
