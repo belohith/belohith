@@ -42,7 +42,7 @@ Google UX Design Professional Certificate (Coursera) - [view certificate](https:
 ```
 Tools/Skills Learned: Figma · Adobe XD
 
-Coursework Summary: Learned the design process (from empathazing and understanding users to testing the designs), understood UX research methods & implementation of user centric design.
+Coursework Summary: Learned the design process (from empathazing and understanding users to testing the designs), understood UX research methods & implementation of user centric design. Built few case studies.
 ```
 
 
