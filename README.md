@@ -1,6 +1,6 @@
 # <p align="center"> ··· LOHITH BOLLINENI ··· </p>
 
-Currently pursuing my Masters Degree in Computer Science, I'm looking for a job in the Software Development industry. I work on Full Stack Development with a preference in Front End Development.  I also work on UI UX, Data Science, Machine Learning and, other related roles in Computer Science.
+Currently pursuing my Masters Degree in Computer Science, I'm looking for a job in the Software Development industry. I work on Full Stack Development with a preference in Front End Development.  I also work on UI UX, Data Science, Data Engineer, Machine Learning and, other related roles in Computer Science.
 
 Languages: 
   ```
